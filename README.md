@@ -19,12 +19,12 @@ This project will utilize Azure Cognitive Services APIs to translate words for t
 This project was my first HoloLens project from the this <a href="https://www.linkedin.com/learning/app-development-for-microsoft-hololens">LinkedIn learning tutorial</a>
 
 - This application implements the following features
-- [x] Gaze
-- [x] Hud
-- [x] Gesture interaction with objects
-- [x] Voice interaction with objects
-- [x] Object interaction sounds
-- [x] A world cursor
+  - [x] Gaze
+  - [x] Hud
+  - [x] Gesture interaction with objects
+  - [x] Voice interaction with objects
+  - [x] Object interaction sounds
+  - [x] A world cursor
 
 </p>
 </details>
