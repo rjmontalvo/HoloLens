@@ -20,7 +20,7 @@ This project was my first HoloLens project from the this <a href="https://www.li
 
 - This application implements the following features
   - [x] Gaze
-  - [x] Hud
+  - [x] 3D Audio
   - [x] Gesture interaction with objects
   - [x] Voice interaction with objects
   - [x] Object interaction sounds
